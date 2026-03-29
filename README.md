@@ -52,5 +52,4 @@ The model was used to generate predictions (scoring), and results were visualize
 ## Project Files
 - Business_Analytics_Project.ipynb → Data analysis & model
 - Business_Analytics_Dashboard.pbix → Power BI dashboard
-- final_dataset.csv → Cleaned dataset
 - presentation.pdf → Project presentation
