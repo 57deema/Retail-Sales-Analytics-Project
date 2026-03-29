@@ -44,8 +44,8 @@ Multi-page Power BI dashboard including:
 - Product Analysis
 - Model Performance (Scoring Board)
 
-## Files
-- Jupyter Notebook
-- Dataset
-- Power BI Dashboard
-- Presentation Slides
+## Project Files
+- Business_Analytics_Project.ipynb → Data analysis & model
+- Business_Analytics_Dashboard.pbix → Power BI dashboard
+- final_dataset.csv → Cleaned dataset
+- presentation.pdf → Project presentation
