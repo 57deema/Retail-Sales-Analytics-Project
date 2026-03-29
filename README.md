@@ -44,6 +44,9 @@ Multi-page Power BI dashboard including:
 - Product Analysis
 - Model Performance (Scoring Board)
 
+## Model Scoring
+The model was used to generate predictions (scoring), and results were visualized in the dashboard using KPI metrics and a scoring table.
+
 ## Project Files
 - Business_Analytics_Project.ipynb → Data analysis & model
 - Business_Analytics_Dashboard.pbix → Power BI dashboard
