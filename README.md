@@ -13,6 +13,8 @@ This project analyzes e-commerce sales data and builds a machine learning model 
 
 ## Dataset
 Brazilian E-Commerce Public Dataset by Olist (~100k records)
+Due to file size limitations, the full dataset is available here:
+Full dataset: https://drive.google.com/file/d/14y-K1ifZKRAMOLyYlYXtrY_sorC5QAHL/view?usp=drive_link
 
 ## Data Processing
 - Merged multiple datasets
